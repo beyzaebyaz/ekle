@@ -1,0 +1,9 @@
+Teknoloji Projesi: Mobil Uygulama Yorum Analizi
+Problem:
+App Store / Google Play'de yazılan kullanıcı yorumlarını tema ve şikayet bazında ayırmak.
+Nasıl Yapılır?
+• Veri Kaynağı: Uygulama mağazası yorumları
+• Adımlar:
+1. Olumsuz yorumlar filtrelenir.
+2. Word2vec ile semantik kümeler oluşturulur.
+3. En çok tekrar eden şikayet başlıkları çıkarılır.
